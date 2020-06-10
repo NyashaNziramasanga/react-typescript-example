@@ -2,21 +2,21 @@
 
 Example of a react typescript app
 
-## Getting started
+## 🏁 Getting started
 
 ```bash
 # Install create react app with typescript natively
 $ npx create-react-app my-app --template typescript
 ```
 
-## Scripts
+## ⚙️ Scripts
 
 ```bash
 # Start server on http://localhost:3000
 $ npm start
 ```
 
-## Resources
+## 📓 Resources
 
 - [Create react app TypeScript Docs](https://create-react-app.dev/docs/adding-typescript/)
 - [React TypeScript Cheatsheets](https://react-typescript-cheatsheet.netlify.app/)
