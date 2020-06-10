@@ -14,6 +14,12 @@ $ npx create-react-app my-app --template typescript
 ```bash
 # Start server on http://localhost:3000
 $ npm start
+
+$ npm build
+
+$ npm test
+
+$ npm eject
 ```
 
 ## 📓 Resources
