@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.scss';
+import { Button } from './Components/Button/Button';
 
 export const App = () => {
   return (
@@ -18,6 +19,7 @@ export const App = () => {
         >
           Learn React
         </a>
+        <Button name={'Click Me'} />
       </header>
     </div>
   );
